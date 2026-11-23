@@ -14,7 +14,7 @@ Semua ada dalam satu file: `index.html`. Tanpa build step, tanpa `npm install`, 
 
 ```bash
 # masuk ke folder project
-cd motion-runner-telkom17
+cd Runningin
 
 # Python 3
 python -m http.server 8000
