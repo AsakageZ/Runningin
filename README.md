@@ -1,4 +1,4 @@
-# Motion Runner — Sekolah Telkom
+# Runningin
 
 Endless runner 3D bertema SMK Telkom yang dikendalikan **gerakan badan** lewat webcam. Lompat, roll, dan pindah lajur dengan menggerakkan tubuh di depan kamera — atau pakai keyboard kalau kamera tidak tersedia.
 
